@@ -1,2 +1,2 @@
 # Optimization-Methods-for-ML-and-Engineering
-Applicable Optimization Techniques
+**Applicable** Optimization Techniques
